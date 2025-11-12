@@ -1,0 +1,4 @@
+Added a component file (Counter.js), including buttons and counting logic.
+This React component uses useState to keep track of a number.
+
+The component is exported via 'export default Counter', and imported in the main entry file (App.js).
